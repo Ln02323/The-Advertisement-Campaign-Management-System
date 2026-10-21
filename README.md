@@ -14,8 +14,8 @@ Project Features:
 - Excel Export: Implemented functionality to export user data to Excel for reporting and record management.
 - Security: Enforced server-side authorization to protect restricted pages and operations, independently of UI visibility.
 
-![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/front.png?raw=true)
-![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/camp%20list.png?raw=true)
-![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/budget%20list.png?raw=true)
-![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/emp%20list.png?raw=true)
-![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/add%20camp.png?raw=true)
+![front](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/front.png?raw=true)
+![camp list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/camp%20list.png?raw=true)
+![budget list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/budget%20list.png?raw=true)
+![emp list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/emp%20list.png?raw=true)
+![add camp](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/add%20camp.png?raw=true)
