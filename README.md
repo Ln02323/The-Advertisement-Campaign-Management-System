@@ -16,6 +16,6 @@ Project Features:
 
 ![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/front.png?raw=true)
 ![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/camp%20list.png?raw=true)
-![](<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/d43d538c-432b-4624-be8f-eeadceee899d" />)
+![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/budget%20list.png?raw=true)
 ![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/emp%20list.png?raw=true)
 ![](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/add%20camp.png?raw=true)
