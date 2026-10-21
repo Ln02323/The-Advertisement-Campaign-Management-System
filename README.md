@@ -14,8 +14,8 @@ Project Features:
 - Excel Export: Implemented functionality to export user data to Excel for reporting and record management.
 - Security: Enforced server-side authorization to protect restricted pages and operations, independently of UI visibility.
 
-![front](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/front.png?raw=true)
-![camp list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/camp%20list.png?raw=true)
-![budget list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/budget%20list.png?raw=true)
-![emp list](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/emp%20list.png?raw=true)
-![add camp](https://github.com/Ln02323/The-Advertisement-Campaign-Management-System/blob/main/add%20camp.png?raw=true)
+<img width="1917" height="916" alt="Image" src="https://github.com/user-attachments/assets/67358c18-f8db-4f75-b2af-f57e2d3e1b82" />
+<img width="1917" height="915" alt="Image" src="https://github.com/user-attachments/assets/0ba57fc6-bbd5-4f94-bc00-7a58cc1ead0e" />
+<img width="1917" height="907" alt="Image" src="https://github.com/user-attachments/assets/63d248db-233d-4a94-87d2-3ad7ee444dc9" />
+<img width="1917" height="882" alt="Image" src="https://github.com/user-attachments/assets/2bba4a07-6650-4413-94d9-a9e19019f20e" />
+<img width="1920" height="1272" alt="Image" src="https://github.com/user-attachments/assets/f7172f6f-8587-414b-9f3b-16f1c00a2375" />
