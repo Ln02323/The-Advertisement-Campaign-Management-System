@@ -1,10 +1,12 @@
 # Advertisement Campaign Management System
 
-## Problem: Advertisement campaigns require controlled access to company funds. Without proper authorization and budget restrictions, unauthorized individuals could submit campaign requests or campaigns could exceed the available monthly budget.
+## Problem
+Advertisement campaigns require controlled access to company funds. Without proper authorization and budget restrictions, unauthorized individuals could submit campaign requests or campaigns could exceed the available monthly budget.
 
-## Solution: The Advertisement Campaign Management System provides a centralized platform where authorized company employees can submit advertisement campaign requests within the available monthly budget. 
+## Solution
+The Advertisement Campaign Management System provides a centralized platform where authorized company employees can submit advertisement campaign requests within the available monthly budget. 
 
-## Methods and Technologies:
+## Methods and Technologies
 - **Technologies:** ASP.NET Core Razor Pages, C#, Entity Framework Core, and SQL Server.
 - **Role-Based Access Control (RBAC):** Implemented three user roles—Manager, Employee, and Viewer—with different permissions for accessing and managing system resources.
 - **Authentication and Authorization:** Used session-based authentication and a reusable SecurePageModel base class to centralize role validation and restrict unauthorized access.
